@@ -1,0 +1,38 @@
+Steps to Create the Script
+
+    Create the File:
+        Open your terminal and navigate to the directory where you want to create the file.
+        Run the command:
+
+        bash
+
+    touch simple-interest.sh
+
+Edit the File:
+
+    Open the file in your preferred text editor. For example, using nano:
+
+    bash
+
+    nano simple-interest.sh
+
+Add the Script:
+
+    Copy the script provided above and paste it into the file.
+    Save and exit the editor (Ctrl+X to exit, Y to confirm changes in nano).
+
+Make the Script Executable:
+
+    Run the command to make the script executable:
+
+    bash
+
+    chmod +x simple-interest.sh
+
+Run the Script:
+
+    Execute the script to verify it works:
+
+    bash
+
+./simple-interest.sh
